@@ -1,0 +1,37 @@
+header{
+background: #999;
+color: white;
+padding: 15px 15px 0 15px;
+}
+
+body{
+margin: 0;
+}
+
+header h1{
+margin: 0;
+display: inline;
+}
+
+nav ul{
+margin: 0;
+display: inline-block;
+padding: 0 0 0 15px;
+}
+
+
+nav ul li{
+background: black;
+color: white;
+display: inline-block;
+list-style-type: none;
+padding: 15px 25px;
+border-radius:5px;
+margin: 5px;
+}
+
+a{
+color:white;
+}
+
+
